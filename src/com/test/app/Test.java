@@ -4,7 +4,8 @@ public class Test {
 
 
     public static void main(String []args){
-        System.out.println(" One plus + ");
+        One one = new One();
+        one.m1();
     }
 
 }
